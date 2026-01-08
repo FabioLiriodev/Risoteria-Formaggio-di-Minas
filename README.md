@@ -40,7 +40,7 @@ The interface was structured to adapt seamlessly to different devices, following
 - **Medium screens (tablet):** 768px width  
 - **Large screens (desktop):** 1440px width  
 
-<h3> Typography and Color Palette </h3>
+<h3> 🖋️ Typography and Color Palette 🖋️ </h3>
 
 In order to explore maximum potential of Bootstrap Framework, the developer uses native typography and color pallete.
 
