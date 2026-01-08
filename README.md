@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Risoteria Formaggio di Minas - Logo]()
+![Risoteria Formaggio di Minas - Logo](./assets/img/logo-risoteria.png)
 
 </div>
 
