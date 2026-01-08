@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Risoteria Formaggio di Minas - Logo](./assets/img/logo-risoteria.png)
+![Risoteria Formaggio di Minas - Logo](./assets/img/logo-risoteria-75px.png)
 
 </div>
 
@@ -40,7 +40,9 @@ The interface was structured to adapt seamlessly to different devices, following
 - **Medium screens (tablet):** 768px width  
 - **Large screens (desktop):** 1440px width  
 
----
+<h3> Typography and Color Palette </h3>
+
+In order to explore maximum potential of Bootstrap Framework, the developer uses native typography and color pallete.
 
 <h3> 💭 Product Concept 💭 </h3>
 
@@ -55,6 +57,12 @@ The application aims to provide a pleasant browsing experience, similar to readi
 
 The **Formaggio di Minas** logo was developed with the assistance of **Microsoft Copilot (AI)**.  
 The objective was to create a visual identity that conveys elegance, simplicity, and a strong connection to gastronomy.
+
+<div align="center">
+
+![Risoteria Formaggio di Minas - Logo](./assets/img/logo-risoteria-75px.png)
+
+</div>
 
 The logo was designed to be versatile, allowing its use across different sections of the application without compromising legibility or visual consistency.
 
